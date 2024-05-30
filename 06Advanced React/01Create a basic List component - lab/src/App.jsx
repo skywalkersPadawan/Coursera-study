@@ -1,5 +1,6 @@
 import './App.css';
 import DessertsList from './DessertsList';
+/* this lab is not completed and it will be worked on later */
 
 const desserts = [
   {
